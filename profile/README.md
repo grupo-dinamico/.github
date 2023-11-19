@@ -7,7 +7,7 @@ Este repositório armazena alguns códigos desenvolvidos e utilizados pelo grupo
 
 Prof. Eduardo Colli (colli@ime.usp.br);
 
-Amanda Faria de Oliveira (mandaf.oliveira@usp.br),
+Amanda Faria de Oliveira (amandaf.oliveira@usp.br),
 
 Millene Duarte Ferreira (milleneduarteferreira@usp.br),
 
