@@ -9,13 +9,17 @@ Prof. Eduardo Colli (colli@ime.usp.br);
 
 Amanda Faria de Oliveira (amandaf.oliveira@usp.br),
 
-Millene Duarte Ferreira (milleneduarteferreira@usp.br),
-
 Marcos Yuri de Almeida Pereira (marcosyuri@usp.br),
 
-Octavio Augusto Potalej (oapotalej@usp.br)
+Matheus Ferreira (matheusexatas@usp.br),
 
-Pedro Matheus Simoes Ferreira (pedrof@usp.br),
+Millene Duarte Ferreira (milleneduarteferreira@usp.br),
+
+Octavio Augusto Potalej (oapotalej@usp.br),
+
+Pedro Eduardo Penhalver (pedro.penhalver@usp.br),
+
+Vitor Saito (vitorhs@usp.br)
 
 ## 🔭 Objetivos 
 
